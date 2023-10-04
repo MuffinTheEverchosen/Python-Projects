@@ -37,6 +37,3 @@ def randomUniqueNumberGenerator(amountOfNumbers, minInteger, maxInteger):
         i += 1
 
     return numberList
-
-
-print(randomUniqueNumberGenerator(80, 1, 10))
